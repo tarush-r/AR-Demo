@@ -10,8 +10,6 @@
 </p>  
 
 
-&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;[![](https://img.shields.io/badge/Made_with-tkinter-blue?style=for-the-badge)](https://docs.python.org/3/library/tk.html)
-&emsp;[![](https://img.shields.io/badge/Made_with-sqlite3-blue?style=for-the-badge)](https://docs.python.org/2/library/sqlite3.html)
 &emsp;[![](https://img.shields.io/badge/IDE-Visual_Studio_Code-blue?style=for-the-badge&logo=visual-studio-code)](https://code.visualstudio.com/  "Visual Studio Code")
 &emsp;[![](https://img.shields.io/badge/Made%20with-Unity-57b9d3.svg?style=for-the-badge&logo=unity)](https://unity3d.com  "Unity 3D")
 
@@ -28,7 +26,6 @@ The game was developed as a part of a mini project for AR/VR course taken in our
 </p>
 
 </p>
-------------------------------------------
 
 <div align="center">
 <br>
@@ -43,8 +40,7 @@ The game was developed as a part of a mini project for AR/VR course taken in our
 ### Libraries Used 
 
 - Unity 3D 
-------------------------------------------
-### Installing
+
 
 
  
