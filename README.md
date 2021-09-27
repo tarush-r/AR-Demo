@@ -1,9 +1,5 @@
-# AR-Demo
-<p align="center">
-  <a href="" rel="noopener">
- <img width=100px src="./assets/images/SpendMate1.png"</a>
-</p>
-<h1 align = 'center'>A demo of tower defense AR game made in unity</h1>
+# A demo of tower defense AR game made in unity
+
 
 <br>
 
