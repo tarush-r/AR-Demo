@@ -6,10 +6,10 @@
 <h1 align = 'center'>A demo of tower defense AR game made in unity</h1>
 
 <br>
-<p align="center">
+
 &emsp;[![](https://img.shields.io/badge/IDE-Visual_Studio_Code-blue?style=for-the-badge&logo=visual-studio-code)](https://code.visualstudio.com/  "Visual Studio Code")
 &emsp;[![](https://img.shields.io/badge/Made%20with-Unity-57b9d3.svg?style=for-the-badge&logo=unity)](https://unity3d.com  "Unity 3D")
-</p>
+
 
 
 
