@@ -20,13 +20,8 @@
 
 <h2 align='center'>Motivation</h2>
 <p align='center'>
-The ultimate tool for managing your personal Expenses, Budget, Analysis and for tracking your future savings.It also allows users to set budgets, get overview of money distribution and has added functionality of analyzing data using graphical representation. If you always want to be in sync and control of your budget, bills and savings, then this tool is best suited for you.Seamlessly log your personal and business transactions. analyse your revenue and expense reports with beautiful graphs. Review your daily, monthly finances easily.
-
-
+The game was developed as a part of a mini project for AR/VR course taken in our 2nd year of undergraduate studies. 
 <p align='center'>
-<a href="https://docs.google.com/document/d/e/2PACX-1vQn_2oSdxNJglxhb0F_3OS6h94MO6FGFWZdYHcEoaNBHjI-U7sBWdCMlCo0PhWbSzzBHl1dJFCmbqry/pub">
-User Manual
-</a>
 </p>
 
 </p>
@@ -52,18 +47,9 @@ User Manual
 <h3 align="center">Application Demo</h3>
 <br>
 <p align="center">
-  <img src="https://github.com/tarush-r/AR-Demo/blob/master/Demo.gif" width = 500px>
-</p>
-<h3 align="center">Report Feature Demo</h3>
-<br>
-<p align="center">
-  <img src ="./assets/gif/Part-2.gif" width = 500px>
+  <img src="https://github.com/tarush-r/AR-Demo/blob/master/Demo.gif">
 </p>
 <br>
-  
-
-
-
 </div>
 
 
@@ -113,10 +99,6 @@ You are done with the setup now!
 
 ------------------------------------------
 
-### Contributing
-
-
- We're are open to `enhancements` & `bug-fixes` . Open a PR and we'll look into it. 
  
 ------------------------------------------
 ### Contributors
@@ -124,4 +106,4 @@ You are done with the setup now!
 - [@Tarush Rajput](https://github.com/tarush-r)
 
 ------------------------------------------
-<h3 align="center"><b>Developed with :heart: by <a href="https://github.com/AkshatG6">Akshat</a>,<a href="https://github.com/tarush-r">Tarush</a></b></h1>
+<h3 align="center"><b>Developed with :heart: by <a href="https://github.com/AkshatG6">Akshat</a>, <a href="https://github.com/tarush-r">Tarush</a></b></h1>
