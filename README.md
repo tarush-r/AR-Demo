@@ -14,7 +14,7 @@
 &emsp;[![](https://img.shields.io/badge/Made_with-sqlite3-blue?style=for-the-badge)](https://docs.python.org/2/library/sqlite3.html)
 &emsp;[![](https://img.shields.io/badge/IDE-Visual_Studio_Code-blue?style=for-the-badge&logo=visual-studio-code)](https://code.visualstudio.com/  "Visual Studio Code")
 &emsp;[![](https://img.shields.io/badge/Made%20with-Unity-57b9d3.svg?style=for-the-badge&logo=unity)](https://unity3d.com  "Unity 3D")
-[![Made with Unity](https://img.shields.io/badge/Made%20with-Unity-57b9d3.svg?style=flat-square&logo=unity)](https://unity3d.com)
+[![Made with Unity](https://img.shields.io/badge/Made%20with-Unity-57b9d3.svg-blue?style=flat-square&logo=unity)](https://unity3d.com)
 
 
 
